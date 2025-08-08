@@ -103,8 +103,8 @@ source .venv/bin/activate
 python RNBO-RPi-MPU6050.py
 ```
 
-You should see the sensor values on the screen. The patcher needs a MIDI note to trigger a sound, you can use the Raspberry Pi Debug Interface to trigger a MIDI note from your browser if you don't have a MIDI controller connected. Don't forget to adjust the gain in the parameter menu first!
+You should see the sensor values on the screen. The patcher needs a MIDI note to trigger a sound, you can use the Raspberry Pi Web Interface to trigger a MIDI note from your browser if you don't have a MIDI controller connected. Don't forget to adjust the gain in the parameter menu first!
 
-![](./RPi-Debug-Interface-Parameters.png)
+![](./VirtualKeyboardMenu.png)
 
-![](./RPi-Debug-Interface-MIDI.png)
+![](./VirtualKeyboard.png)
